@@ -292,6 +292,7 @@ main button{
         justify-content: center;
         border: 1px solid;
         background: #FFF4E7;
+        border: 0;
         border-radius: 8px;
         margin: 0 85px 200px;
         padding: 20px 0 20px;
@@ -311,4 +312,7 @@ main button{
      }
      .enjoy-main:hover{
          background-color:#dfa564;
+     }
+     @media screen {
+        
      }
